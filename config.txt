@@ -1,5 +1,5 @@
 token=NTAyNTg0ODUzMjA0NTY2MDE2.DqtmkQ.iGipvqFJl2-o42v1Mc6d2zaeWrY
-owner=466425075487342615
+owner=<@466425075487342615>
 prefix=*
 game=Type *play
 stayinchannel=true
